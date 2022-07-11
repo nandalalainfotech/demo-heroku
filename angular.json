@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "demo-heroku"
+  "defaultProject": "demo-heroku",
+  "cli": {
+    "analytics": "72234fd8-14e0-4a43-a918-2feb3f00b2fe"
+  }
 }
